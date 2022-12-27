@@ -27,6 +27,6 @@ The user can configure their own threshold by specifying an EAR ratio and custom
 - Create a new virtual environment for running the application. You can follow the instructions 
 - Navigate to the virtual environment and activate it.
 - Install the dependancies using `pip install -r requirements.txt`
-- Run the `dds.py` file with `python dds.py`
+- Run the `drowsiness.py` file with `python drowsiness.py`
 
 ---
